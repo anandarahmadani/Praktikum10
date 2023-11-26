@@ -110,8 +110,8 @@ else:
 ### Output untuk (L) :
 ![Alt text](Gambar/image-6.png)
 ### Output untuk (C) :
-![Alt text](image-7.png)
+![Alt text](Gambar/image-7.png)
 ### Output untuk (H) :
-![Alt text](image-8.png)
+![Alt text](Gambar/image-8.png)
 
 # TERIMAKASIH
